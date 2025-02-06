@@ -9,7 +9,6 @@ We have worked on 3 datasets
 
 
 1-Collected Dataset
-Overview
 
 Participants: 22 individuals.
 
@@ -21,7 +20,6 @@ Data Size: 6 instances per person.
 
 
 2-FVC2004 dataset
-Overview
 
 Databases: 4 datasets (DB1, DB2, DB3, DB4) collected using diverse technologies.
 
@@ -31,7 +29,6 @@ Fingers Captured: Forefinger and middle finger of both hands (4 fingers total).
 
 
 3- SOCOFING dataset
-Overview 
 
 Dataset Size and Demographics: Contains 6,000 fingerprints from 600 African subjects, with 10 fingerprints per subject, all aged 18 years or older.
 
