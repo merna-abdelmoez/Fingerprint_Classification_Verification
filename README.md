@@ -35,7 +35,6 @@ We have worked on three datasets:
    - Integration into biometric authentication systems.
 
 ## Contributors <a name = "Contributors"></a>
-```markdown
 <table>
   <tr>
     <td align="center">
@@ -54,14 +53,14 @@ We have worked on three datasets:
     </td>
   </tr>
 </table>
-```
+
 
 ## Acknowledgments
 **This project was supervised by Dr. Ahmed Badwy, who provided invaluable guidance and expertise throughout its development as a part of the Statistical Course at Cairo University Faculty of Engineering.**
 
-```markdown
+
 <div style="text-align: right">
     <img src="https://imgur.com/Wk4nR0m.png" alt="Cairo University Logo" width="100" style="border-radius: 50%;"/>
 </div>
-```
+
 
