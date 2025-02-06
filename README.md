@@ -56,7 +56,7 @@ We have worked on three datasets:
 
 
 ## Acknowledgments
-**This project was supervised by Dr. Ahmed Badwy, who provided invaluable guidance and expertise throughout its development as a part of the Statistical Course at Cairo University Faculty of Engineering.**
+**This project was supervised by Dr. Ahmed Badwy, who provided invaluable guidance and expertise throughout its development as a part of the Biometric Course at Cairo University Faculty of Engineering.**
 
 
 <div style="text-align: right">
