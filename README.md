@@ -28,9 +28,9 @@ We have worked on three datasets:
    - Feature extraction using deep learning models.
 2. **Model Development:**
    - Convolutional Neural Networks (CNNs) for gender classification.
-   - Siamese or Triplet Networks for fingerprint verification.
+   - Siamese Networks for fingerprint verification.
 3. **Training & Evaluation:**
-   - Performance metrics such as accuracy for classification and similarity scores for verification.
+   - Performance metrics as accuracy for classification and similarity scores for verification.
 4. **Deployment:**
    - Integration into biometric authentication systems.
 
