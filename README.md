@@ -1,7 +1,7 @@
 # Finger Print Verification and gender classification 
 
 ## Overview
-
+This project aims to develop a deep learning-based system for fingerprint gender classification and verification. The goal is to analyze fingerprint patterns to determine the gender of an individual and verify the identity based on biometric authentication.
 
 
 ## Dataset
