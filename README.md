@@ -39,14 +39,14 @@ We have worked on three datasets:
   <tr>
     <td align="center">
       <a href="https://github.com/merna-abdelmoez">
-        <img src="https://github.com/merna-abdelmoez.png" width="100px" alt="@MernaAbdelmoez">
+        <img src="https://github.com/merna-abdelmoez.png" width="200px" alt="@MernaAbdelmoez">
         <br>
         <sub><b>Merna AbdElMoez</b></sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/Habiba-Mohsen">
-        <img src="https://github.com/Habiba-Mohsen.png" width="100px" alt="@HabibaMohsen">
+        <img src="https://github.com/Habiba-Mohsen.png" width="200px" alt="@HabibaMohsen">
         <br>
         <sub><b>Habiba Mohsen</b></sub>
       </a>
