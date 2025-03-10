@@ -36,6 +36,7 @@ We have worked on three datasets:
   
 ## Results
 1.Gender Classification accuracy = 0.9963%
+
 2.Finger Print Recognition accuracy = 0.9%
 
 ## Contributors <a name = "Contributors"></a>
