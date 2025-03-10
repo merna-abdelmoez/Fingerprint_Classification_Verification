@@ -33,6 +33,9 @@ We have worked on three datasets:
    - Performance metrics as accuracy for classification and similarity scores for verification.
 4. **Deployment:**
    - Integration into biometric authentication systems.
+  
+## Results
+1.Gender Classification accuracy = 0.9963%
 
 ## Contributors <a name = "Contributors"></a>
 <table>
