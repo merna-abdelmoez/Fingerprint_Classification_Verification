@@ -35,9 +35,9 @@ We have worked on three datasets:
    - Integration into biometric authentication systems.
   
 ## Results
-1.Gender Classification accuracy = 0.9963%
+1.Gender Classification accuracy = 99.63%
 
-2.Finger Print Recognition accuracy = 0.9%
+2.Finger Print Recognition accuracy = 90.0%
 
 ## Contributors <a name = "Contributors"></a>
 <table>
